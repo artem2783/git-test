@@ -1,0 +1,5 @@
+Host git@github.com:artem2783/git-test.git
+    HostName git@github.com:artem2783/git-test.git
+    User git
+    IdentityFile ~/.ssh/personal_key
+    IdentitiesOnly yes
